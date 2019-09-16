@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FlintSoft.Blazor.ChartJs\FlintSoft.Blazor.ChartJs.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -5,13 +5,13 @@ VisualStudioVersion = 16.0.29230.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1DC39175-AA98-49A8-B36B-2261D28B6D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlintSoft.Blazor.ChartJs", "FlintSoft.Blazor.ChartJs\FlintSoft.Blazor.ChartJs.csproj", "{180A4FA0-74EB-4601-BF33-EA08033B38F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlintSoft.Blazor.ChartJs", "FlintSoft.Blazor.ChartJs\FlintSoft.Blazor.ChartJs.csproj", "{180A4FA0-74EB-4601-BF33-EA08033B38F7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{B27C1C5A-0B36-4EE2-9BD8-73CC1777EF5E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServerSide", "ServerSide", "{B8DCE730-68E7-48D3-A767-060622898F21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartJsDemo.Server", "ChartJsDemo.Server\ChartJsDemo.Server.csproj", "{FBE5742E-5752-4284-A820-1FB528DF871A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChartJsDemo.Server", "ChartJsDemo.Server\ChartJsDemo.Server.csproj", "{FBE5742E-5752-4284-A820-1FB528DF871A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
